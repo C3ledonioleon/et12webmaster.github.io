@@ -33,6 +33,7 @@
 #compartir-reddit{ color: orangered; }
 #compartir-email{ color: red; }
 #compartir-instagram{ display: none; color: rgb(216, 32, 216); }
+#compartir-x{color: black;}
 
 @media(max-width: 760px){
   h1{font-size: 8vmin;}
